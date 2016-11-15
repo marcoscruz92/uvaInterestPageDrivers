@@ -23,6 +23,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: 'Monserrat-SemiBold', Helvetica, Arial, sans-serif;
 	color: #FFFFFF;
   text-transform: uppercase;
+	font-weight: bold;
 	line-height: 1.1;
 	letter-spacing: 2.5px;
 }
@@ -83,13 +84,12 @@ header a:hover {
 .form-wrapper {
 	position: relative;
 	top: -64px;
-  background: #FAFAFA;
-  /*border-top: 8px solid #A22700;*/
+  background: #FFFFFF;
   padding: 12px 20px;
 }
 
 .form-wrapper h3, .form-wrapper h5 {
-	color: #000000;
+	color: #4A4A4A;
 }
 
 textarea:focus, input:focus, .uneditable-input:focus {
@@ -137,7 +137,7 @@ textarea:focus, input:focus, .uneditable-input:focus {
 }
 
 .features h1, .features h2 {
-	color: #000000;
+	color: #4A4A4A;
 	font-weight: bold;
 }
 
@@ -173,7 +173,7 @@ textarea:focus, input:focus, .uneditable-input:focus {
 	.form-wrapper {
 		position: relative;
 		top: 0;
-	  background: #FAFAFA;
+	  background: #FFFFFF;
 	  /*border-top: 8px solid #A22700;*/
 	  padding: 12px 20px;
 	}
